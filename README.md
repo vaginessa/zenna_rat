@@ -46,3 +46,11 @@ Powerfull Android Rat Fully Undetectable
 
 - Firebase Account
 - free or Paid Hosting
+
+## Support
+
+For support, email ranbroa.@gmail.com
+
+## Support
+
+For support, email ranbroa.@gmail.com
