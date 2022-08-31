@@ -40,6 +40,7 @@ Powerfull Android Rat Fully Undetectable
 - Fully Undetectable
 - Wipe Sdcard
 - Binded GB Whatsapp
+- More Features Ccoming soon
 
 ## Requirements
 
