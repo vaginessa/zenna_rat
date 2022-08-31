@@ -1,26 +1,47 @@
-# zenna_rat
-# Powerful Rat Fully undetectable
 
+# Zenna Android Rat
 
-# Features
-red_circle Real time
-globe_with_meridians custom web view 
-bell notification reader
-bell notification sender (send custom notification that apper on target device with custom click link)
-left_speech_bubble show toast message on target device (Toasts are messages that appear in a box at the bottom of the device)
-satellite receive information about simcard provider
-vibration_mode vibrate target device
-artificial_satellite receive device location
-envelope receive all target message
-envelope send sms with target device to any number
-envelope send sms with target device to all of his/her contacts
-bust_in_silhouette recive all target contacts
-computer receive list of all installedd apps in target device
-file_folder receive any file or folder from target device
-file_folder delete any file or folder from target device
-camera capture main and front camera
-studio_microphone capture microphone (with custom duration)
-clipboard receive last clipboard text
-white_check_mark auto start after device boot
-closed_lock_with_key Keylogger {Availbe in apk v1 and v2}
-sparkles Beautiful telegram bot interface -robot Undetectable by antivirus
+Powerfull Android Rat Fully Undetectable
+
+## Suport Android 12
+
+## Pro Features
+
+ - Read , Delete Internal Storage Files
+- Download Any Media to your Device from Device
+- Get GPS location
+- Get Network Provider Location
+- Get all the system information 
+ - Shows all the installed apps in Device
+ - Open Any Website in Device
+- Make any folder in Device
+- Show any notification in Device
+- Delete any File or Folder From Internal Storage
+ - Download SMS
+ - Download Contacts
+ - Send SMS
+ - Show SMS
+ - Record Audio
+- Record Call
+ - Admin Permission
+ - Encrypt any file in victim's device
+ - Lock Victims Device with 6 digit Pin Code
+ - Keylogger
+ - Capture Screenshot from background
+ - Capture Photo from Front and Back Camera
+- Play music in Victims device
+- Change Wallpaper
+- Vibrate Device
+- Turn On/Off Flash Light
+- Text To Speach Feature
+- Runs In Background
+- Support Android v5 - v12
+- No Port Forwarding Needed
+- Fully Undetectable
+- Wipe Sdcard
+- Binded GB Whatsapp
+
+## Requirements
+
+- Firebase Account
+- free or Paid Hosting
