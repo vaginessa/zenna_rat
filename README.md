@@ -53,7 +53,3 @@ Buy Now https://sites.google.com/view/zenna-rat/%E0%A4%AE%E0%A4%96%E0%A4%AF%E0%A
 ## Support
 
 For support, email ranbroa.@gmail.com
-
-## Support
-
-For support, email ranbroa.@gmail.com
