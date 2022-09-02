@@ -51,7 +51,7 @@ Buy Now https://sites.google.com/view/zenna-rat/%E0%A4%AE%E0%A4%96%E0%A4%AF%E0%A
 - free or Paid Hosting
 - 000webhost (recommended)
 ## Support
-<h3 align="left">Support:if you want free</h3>
+<h3 align="left">Support: if you want free</h3>
 <p><a href="https://www.buymeacoffee.com/Zenna"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Zenna" /></a></p><br><br>
 
 For support, email ranbroa.@gmail.com
