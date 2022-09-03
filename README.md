@@ -45,6 +45,11 @@ Buy Now https://sites.google.com/view/zenna-rat/%E0%A4%AE%E0%A4%96%E0%A4%AF%E0%A
 - Binded GB Whatsapp
 - More Features Ccoming soon
 
+## Screenshots
+
+![App Screenshot](https://raw.githubusercontent.com/Jennahacker/zenna_rat/main/IMG_20220903_172742.jpg)
+
+![App Screenshot](https://raw.githubusercontent.com/Jennahacker/zenna_rat/main/IMG_20220903_172833.jpg)
 ## Requirements
 
 - Firebase Account
