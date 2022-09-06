@@ -1,6 +1,7 @@
 ![Logo](https://www.dedseec.com/stenseet/2021/08/unnamed.png)
 
 # Zenna Android Rat
+For support, email ranbroa.@gmail.com
 
 Powerfull Android Rat Fully Undetectable
 
@@ -59,4 +60,4 @@ Buy Now https://sites.google.com/view/zenna-rat/%E0%A4%AE%E0%A4%96%E0%A4%AF%E0%A
 <h3 align="left">Support: if you want free</h3>
 <p><a href="https://www.buymeacoffee.com/Zenna"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Zenna" /></a></p><br><br>
 
-For support, email ranbroa.@gmail.com
+
