@@ -10,7 +10,7 @@ Powerfull Android Rat Fully Undetectable
 ## send me BTC 
 bitcoin:1EJ4mQom69hByCWZsCGe3hfUuEwE45AaXn
 ## Buy Now
-Buy Now https://sites.google.com/view/zenna-rat/%E0%A4%AE%E0%A4%96%E0%A4%AF%E0%A4%AA%E0%A4%B7%E0%A4%A0
+Buy Now https://sites.google.com/view/zennaapp/home
 
 ## Pro Features
 
