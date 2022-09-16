@@ -11,7 +11,7 @@ Powerfull Android Rat Fully Undetectable
 bitcoin:1EJ4mQom69hByCWZsCGe3hfUuEwE45AaXn
 
 # BUY NOW
-</style>
+
 </head>
 <body>
 
