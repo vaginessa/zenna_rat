@@ -9,6 +9,7 @@ Powerfull Android Rat Fully Undetectable
 ## Suport Android 12
 ## send me BTC 
 bitcoin:1EJ4mQom69hByCWZsCGe3hfUuEwE45AaXn
+# Buy now
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
@@ -42,10 +43,7 @@ a:hover {
 
 
 
-<a href="#" class="next">BUY NOW</a>
-
-## Buy Now
-Buy Now https://zennashop.com/product-category/rat/
+<a href="https://zennashop.com/product-category/rat/" class="next">BUY NOW</a>
 
 ## Demo
 
