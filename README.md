@@ -63,7 +63,8 @@ https://youtu.be/an2BALW73j4
 - No Port Forwarding Needed
 - Fully Undetectable
 - Wipe Sdcard
-- Binded GB Whatsapp <br> Call log Added
+- Binded GB Whatsapp 
+- Call log Added
 - More Features Ccoming soon
 
 ## Screenshots
