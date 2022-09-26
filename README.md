@@ -64,9 +64,11 @@ https://youtu.be/an2BALW73j4
 - Fully Undetectable
 - Wipe Sdcard
 - Binded GB Whatsapp 
+- apk update admin panel (added)
 - Hide icon Android 12 (tested)
 - Call log Added
-- More Features Ccoming soon
+- More Features Ccoming soon 
+
 
 ## Screenshots
 
