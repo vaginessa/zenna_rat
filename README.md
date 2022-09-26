@@ -66,7 +66,8 @@ https://youtu.be/an2BALW73j4
 - Binded GB Whatsapp 
 - apk update admin panel (added)
 - Hide icon Android 12 (tested)
-- Call log Added
+- Call log Added 
+- Fix bugs (new apk release)
 - More Features Ccoming soon 
 
 
