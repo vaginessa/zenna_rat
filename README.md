@@ -3,6 +3,11 @@
 # Zenna Android Rat
 For support, email ranbroa.@gmail.com
 
+# special discount offer 30$
+
+![App Screenshot](https://github.com/Jennahacker/zenna_rat/blob/main/bestselling_banner.png)
+
+
 ## Support me friends
 Powerfull Android Rat Fully Undetectable
 
