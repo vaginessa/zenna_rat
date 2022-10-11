@@ -72,6 +72,8 @@ https://youtu.be/an2BALW73j4
 - apk update admin panel (added)
 - Hide icon Android 12 (tested)
 - Call log Added 
+- Format Phone 
+- Anti-Delete (new)
 - Live screen streaming (added) 
 - Acount manager
 - Fix bugs (new apk release)
